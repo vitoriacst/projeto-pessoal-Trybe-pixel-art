@@ -1,0 +1,101 @@
+h1{
+    font-family: 'Lobster', cursive;
+    font-size: 80px;
+    color: rgb(175, 98, 146);
+    box-shadow: 5px 5px 5px black;
+    text-shadow: 7px 5px 6px black;
+}
+body{
+    text-align: center;
+   background-color: rgba(63, 43, 65, 0.76);
+   background-repeat: no-repeat;
+   background-size: cover;
+
+}
+
+
+
+#color-palette{
+    
+    width: 500px;
+    height: 100px;
+    margin-bottom: 50px;
+    margin: auto;
+    padding: auto;
+    
+} 
+
+
+.blue{
+    background-color: rgb(164, 224, 235);
+    border: solid;
+    border-color: black;
+    border: bottom width 1px;
+    border-width:1px;
+    border-left-width:1px;
+    border-right-width:1px;
+    height: 40px;
+    width: 40px;
+    display: inline-block;}
+  
+.yellow{
+    background-color: rgb(134, 230, 171);
+    border: solid;
+    border-color: black;
+    border: bottom width 1px;
+    border-width:1px;
+    border-left-width:1px;
+    border-right-width:1px;
+    height: 40px;
+    width: 40px;
+    display: inline-block; 
+      
+}
+.red{
+    background-color: rgb(228, 154, 228);
+    border: solid;
+    border-color: black;
+    border: bottom width 1px;
+    border-width:1px;
+    border-left-width:1px;
+    border-right-width:1px;
+    height: 40px;
+    width: 40px;
+    display: inline-block;    
+}
+.black{
+    background-color: rgb(0, 0, 0);
+    border: solid;
+    border-color: black;
+    border: bottom width 1px;
+    border-width:1px;
+    border-left-width:1px;
+    border-right-width:1px;
+    height: 40px;
+    width: 40px;
+    display: inline-block;    
+}
+
+
+.pixel{
+    width: 40px;
+    height: 40px;
+    border: 1px solid black;
+    display: inline-block;
+    background-color: white;
+    
+
+}
+#clear-board{
+    width: 200px;
+    height: 60px;
+    background-color: rgb(230, 187, 231);
+    color: white;
+    border-radius: 50px;
+    font-size: 30px;
+    margin-bottom: 100px;
+    
+}
+.lalala{
+    background-color: white;
+}
